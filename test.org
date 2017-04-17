@@ -1,0 +1,24 @@
+* Tasks - work
+** paper stream IP driver - need HCIS
+** write SOP for paperless
+*** naming convention
+*** keep results?
+*** anything i'm forgetting?
+** check out old charges
+*** Josh's email
+*** sheet is on the desk
+** archive old reqs
+*** S is done
+** inventory
+*** how often? - weekly to start?
+** PDF reqs
+*** informtx - Miraca
+*** national Jewish
+*** Immco
+**** billing info
+**** checkbox - the one test we send
+** preqs and send to dort
+** excel sheet for inventory
+*** expenditure (past value + input - new value)
+*** input order & receive
+*** trending graphs 
