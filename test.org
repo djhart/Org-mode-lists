@@ -1,6 +1,6 @@
 * Tasks - work
-** paper stream IP driver - need HCIS
-** write SOP for paperless
+** TODO paper stream IP driver - need HCIS
+** TODO write SOP for paperless
 *** naming convention
 *** keep results?
 *** anything i'm forgetting?
