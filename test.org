@@ -23,6 +23,9 @@
 + input order & receive
 + trending graphs 
 ** Sort out Welsh invoices
-*** several are paid ? 
-*** look for receipts and see about getting updated
-*** the info they just gave us is the same as current ID - 
++ several are paid ? 
++ look for receipts and see about getting updated
++ the info they just gave us is the same as current ID - 
+** Supplies
++ small racks - arup
++ add sequenom info to spreadsheet
