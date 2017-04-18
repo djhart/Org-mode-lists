@@ -22,7 +22,6 @@
 + expenditure (past value + input - new value)
 + input order & receive
 + trending graphs 
-** 4 Boxes upstairs
 ** Sort out Welsh invoices
 *** several are paid ? 
 *** look for receipts and see about getting updated
