@@ -1,26 +1,29 @@
 * Tasks - work
 ** TODO paper stream IP driver - need HCIS
 ** TODO write SOP for paperless
-*** +naming convention+
-*** keep results?
-*** anything i'm forgetting?
++ +naming convention+
++ keep results?
++ anything i'm forgetting?
 ** check out old charges
-*** Josh's email
-*** sheet is on the desk
++ Josh's email
++ sheet is on the desk
 ** archive old reqs
-*** +S is done+
++ +S is done+
 ** inventory
-*** how often? - weekly to start?
++ how often? - weekly to start?
 ** PDF reqs
-*** informtx - Miraca
-*** national Jewish
-*** Immco
-**** billing info
-**** checkbox - the one test we send
++ informtx - Miraca
++ national Jewish
++ Immco
+  + billing info
+  + checkbox - the one test we send
 ** preqs and send to dort
 ** excel sheet for inventory
-*** expenditure (past value + input - new value)
-*** input order & receive
-*** trending graphs 
++ expenditure (past value + input - new value)
++ input order & receive
++ trending graphs 
 ** 4 Boxes upstairs
 ** Sort out Welsh invoices
+*** several are paid ? 
+*** look for receipts and see about getting updated
+*** the info they just gave us is the same as current ID - 
