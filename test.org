@@ -1,14 +1,14 @@
 * Tasks - work
 ** TODO paper stream IP driver - need HCIS
 ** TODO write SOP for paperless
-*** naming convention
+*** +naming convention+
 *** keep results?
 *** anything i'm forgetting?
 ** check out old charges
 *** Josh's email
 *** sheet is on the desk
 ** archive old reqs
-*** S is done
+*** +S is done+
 ** inventory
 *** how often? - weekly to start?
 ** PDF reqs
@@ -22,3 +22,5 @@
 *** expenditure (past value + input - new value)
 *** input order & receive
 *** trending graphs 
+** 4 Boxes upstairs
+** Sort out Welsh invoices
