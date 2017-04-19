@@ -1,7 +1,4 @@
 * Tasks - work
-** Add-ons
-+ MMA Arup
-+ R 5HIAA Interscience
 ** paper stream IP driver - need HCIS
 ** write SOP for paperless
 + +naming convention+
@@ -28,6 +25,4 @@
 + several are paid ? 
 + look for receipts and see about getting updated
 + the info they just gave us is the same as current ID - 
-** Supplies
-+ +small racks - arup+
-+ add sequenom info to spreadsheet
+
