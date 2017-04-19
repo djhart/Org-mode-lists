@@ -1,6 +1,9 @@
 * Tasks - work
-** TODO paper stream IP driver - need HCIS
-** TODO write SOP for paperless
+** Add-ons
++ MMA Arup
++ R 5HIAA Interscience
+** paper stream IP driver - need HCIS
+** write SOP for paperless
 + +naming convention+
 + keep results?
 + anything i'm forgetting?
@@ -17,7 +20,6 @@
 + Immco
   + billing info
   + checkbox - the one test we send
-** preqs and send to dort
 ** excel sheet for inventory
 + expenditure (past value + input - new value)
 + input order & receive
@@ -27,5 +29,5 @@
 + look for receipts and see about getting updated
 + the info they just gave us is the same as current ID - 
 ** Supplies
-+ small racks - arup
++ +small racks - arup+
 + add sequenom info to spreadsheet
