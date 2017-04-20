@@ -1,5 +1,6 @@
 * Tasks - work
 ** paper stream IP driver - need HCIS
++ ticket put in 4/20/17 1008
 ** write SOP for paperless
 + +naming convention+
 + keep results?
@@ -11,12 +12,14 @@
 + +S is done+
 ** inventory
 + how often? - weekly to start?
++ follow up on small sequenom shippers - email probably
 ** PDF reqs
 + informtx - Miraca
 + national Jewish
 + Immco
   + billing info
   + checkbox - the one test we send
++ ABPA default on OHSU req
 ** excel sheet for inventory
 + expenditure (past value + input - new value)
 + input order & receive
