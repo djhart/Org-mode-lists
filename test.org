@@ -1,9 +1,7 @@
 * Tasks - work
-** paper stream IP driver - need HCIS
-+ ticket put in 4/20/17 1008
 ** write SOP for paperless
 + +naming convention+
-+ keep results?
++ keep results? -- no for now
 + anything i'm forgetting?
 ** check out old charges
 + Josh's email
@@ -23,10 +21,12 @@
 ** excel sheet for inventory
 + expenditure (past value + input - new value)
 + input order & receive
+  + have order field (input quantity and set to on edit push to input page - pull item name and date)
 + trending graphs 
+  + probably default all fields to off because there are so many
 ** Sort out Welsh invoices
 + several are paid ? 
 + look for receipts and see about getting updated
 + the info they just gave us is the same as current ID - 
-** German cockroach is most common instead of American should change code or add german per Diana Bayer - tell Sarah
+*** German cockroach is most common instead of American should change code or add german per Diana Bayer - tell Sarah
 
