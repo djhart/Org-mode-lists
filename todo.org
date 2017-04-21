@@ -1,9 +1,17 @@
 * Weekend 4/21/17
-+ pirates
 + shave
 + phone
-+ yoga
++ yoga -everyday
 + sandals
-+ clean (really clean)
 + spacemacs setup
+** Friday
++ pirates
++ Margarita?
+** Saturday
 + flaming lips
++ clean (really clean)
+** Sunday
++ Clear backyard
++ plan workbench
+
+
