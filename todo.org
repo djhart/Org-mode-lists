@@ -1,11 +1,11 @@
 * Weekend 4/21/17
 + shave
-+ phone
++ +phone-fucked+
 + yoga -everyday
 + sandals
 + spacemacs setup
 ** Friday
-+ pirates
++ +pirate's+ 
 + Margarita?
 ** Saturday
 + flaming lips
