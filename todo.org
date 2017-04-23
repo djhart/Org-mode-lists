@@ -1,9 +1,9 @@
 * Weekend 4/21/17
-+ shave
++ >shave
 + +phone-fucked+
 + +yoga -everyday+
-+ sandals
-+ spacemacs setup
++ >sandals
++ >spacemacs setup
 ** Friday
 + +pirate's+ 
 + +Margarita?+
@@ -16,4 +16,11 @@
 + big fire
 + Clean
 + workout
++ add old groceries to ledger
++ +mow lawn+ 
++ setup spacemacs and font
++ sandals
++ shave
+
+
 
