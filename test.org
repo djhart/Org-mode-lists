@@ -1,8 +1,8 @@
 * Tasks - work
 ** write SOP for paperless
 + +naming convention+
-+ keep results? -- no for now
-+ anything i'm forgetting?
++ +keep results?+
++ +anything i'm forgetting?+
 ** check out old charges
 + Josh's email
 + sheet is on the desk
@@ -11,6 +11,7 @@
 ** inventory
 + how often? - weekly to start?
 + follow up on small sequenom shippers - email probably
++ do inventory 4/24/17
 ** PDF reqs
 + informtx - Miraca
 + national Jewish
@@ -28,5 +29,5 @@
 + several are paid ? 
 + look for receipts and see about getting updated
 + the info they just gave us is the same as current ID - 
-*** German cockroach is most common instead of American should change code or add german per Diana Bayer - tell Sarah
+*** bear and the nightingale
 
