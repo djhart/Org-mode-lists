@@ -11,18 +11,18 @@
 + +flaming lips+
 + >clean (really clean)
 ** Sunday
-+ Clear backyard
-+ plan workbench
-+ big fire
-+ Clean
-+ workout
-+ add old groceries to ledger
++ >Clear backyard
++ >plan workbench
++ >big fire
++ >Clean
++ >workout
++ >add old groceries to ledger
 + +mow lawn+ 
-+ setup spacemacs and font
-+ sandals
-+ shave
-+ get a few groceries
-+ dishes
-+ tea 
++ >setup spacemacs and font
++ +sandals+
++ >shave
++ >get a few groceries
++ >dishes
++ +tea+ 
 
 
