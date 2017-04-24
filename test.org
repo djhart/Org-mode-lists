@@ -8,6 +8,9 @@
 + sheet is on the desk
 ** archive old reqs
 + +S is done+
+** fedex tracking from excel sheet
++ look at web query functionality - should be pretty straightforward
++ see about automating with epic reports
 ** inventory
 + how often? - weekly to start?
 + follow up on small sequenom shippers - email probably
