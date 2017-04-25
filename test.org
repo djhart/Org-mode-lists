@@ -1,8 +1,5 @@
 * Tasks - work
-** write SOP for paperless
-+ +naming convention+
-+ +keep results?+
-+ +anything i'm forgetting?+
+** Make PREQS on 4/26/17
 ** check out old charges
 + Josh's email
 + sheet is on the desk
@@ -14,7 +11,7 @@
 ** inventory
 + how often? - weekly to start?
 + follow up on small sequenom shippers - email probably
-+ do inventory 4/25/17
++ do inventory 4/26/17
 ** PDF reqs
 + informtx - Miraca
 + national Jewish
@@ -32,5 +29,7 @@
 + several are paid ? 
 + look for receipts and see about getting updated
 + the info they just gave us is the same as current ID - 
+** Molecular vision lab vendor app - send
+** +va invoice - send+
 *** bear and the nightingale
 
