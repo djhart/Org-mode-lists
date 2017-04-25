@@ -9,5 +9,5 @@
 + Fire!
 + workbench
 ** Morning
-+ groceries 
-+ dishes
++ +groceries+ 
++ +dishes+
