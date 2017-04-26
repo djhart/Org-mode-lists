@@ -1,0 +1,7 @@
+* 4/28/17 - 4/30/17
++ shave
++ spacemacs setup
++ engineering initiate
++ workout
++ yoga 
++ workbench plans / material list
