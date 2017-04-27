@@ -11,13 +11,13 @@
 ** inventory
 + how often? - weekly to start?
 + follow up on small sequenom shippers - email probably
-+ do inventory 4/26/17
+
 
 ** PDF reqs
 + Javascript to save as png
 
 ** excel sheet for inventory
-+ expenditure (past value + input - new value)
++ get threshold & outdate rules up
 + input order & receive
   + have order field (input quantity and set to on edit push to input page - pull item name and date)
 + trending graphs 
