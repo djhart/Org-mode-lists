@@ -1,10 +1,13 @@
 * Tasks - work
+
 ** check out old charges
 + Josh's email
 + sheet is on the desk
+
 ** fedex tracking from excel sheet
 + look at web query functionality - should be pretty straightforward
 + see about automating with epic reports
+
 ** inventory
 + how often? - weekly to start?
 + follow up on small sequenom shippers - email probably
