@@ -1,31 +1,34 @@
 * Tasks - work
+
 ** check out old charges
 + Josh's email
 + sheet is on the desk
-** archive old reqs
-+ +S is done+
+
 ** fedex tracking from excel sheet
 + look at web query functionality - should be pretty straightforward
 + see about automating with epic reports
+
 ** inventory
 + how often? - weekly to start?
 + follow up on small sequenom shippers - email probably
 + do inventory 4/26/17
+
 ** PDF reqs
-+ Immco
-  + billing info
-  + checkbox - the one test we send
-+ ABPA default on OHSU req
++ Javascript to save as png
+
 ** excel sheet for inventory
 + expenditure (past value + input - new value)
 + input order & receive
   + have order field (input quantity and set to on edit push to input page - pull item name and date)
 + trending graphs 
   + probably default all fields to off because there are so many
+  
 ** Sort out Welsh invoices
 + several are paid ? 
 + look for receipts and see about getting updated
 + the info they just gave us is the same as current ID - 
-** Molecular vision lab vendor app - send
-*** bear and the nightingale - book 
 
+** Molecular vision lab vendor app - send
+
+** archive old reqs
++ +S is done+
