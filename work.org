@@ -11,6 +11,7 @@
 ** inventory
 + how often? - weekly to start?
 + follow up on small sequenom shippers - email probably
++ z tubes - order
 
 
 ** PDF reqs
@@ -21,7 +22,7 @@
 + input order & receive
   + have order field (input quantity and set to on edit push to input page - pull item name and date)
 + trending graphs 
-  + probably default all fields to off because there are so many
+  + probably default all fields to off because there are so many ( useful at all?)
   
 ** Sort out Welsh invoices
 + several are paid ? 
@@ -32,5 +33,7 @@
 
 ** archive old reqs
 + +S is done+
+
+** mail rent check
 
 *** pay sarah for donation
