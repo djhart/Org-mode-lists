@@ -6,6 +6,9 @@
 
 ** fedex tracking from excel sheet
 + look at web query functionality - should be pretty straightforward
+  + need to use vba
+  + maybe get shiptrack source code - legit? looks sketchy
+  + should be able to figure out 
 + see about automating with epic reports
 
 ** inventory
@@ -34,6 +37,3 @@
 ** archive old reqs
 + +S is done+
 
-** mail rent check
-
-*** pay sarah for donation
