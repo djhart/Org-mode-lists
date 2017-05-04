@@ -5,20 +5,18 @@
 + sheet is on the desk
 
 ** fedex tracking from excel sheet
-+ look at web query functionality - should be pretty straightforward
-  + need to use vba
-  + maybe get shiptrack source code - legit? looks sketchy
-  + should be able to figure out 
-+ see about automating with epic reports
++ fedex tracking sub sent to self in email
++ need to add to vba in C:\Users\djhart\AppData\Roaming\Microsoft\Excel\XLSTART in Personal.xlsb macro enabled
++ may need to add robustness regarding more than 30 numbers but probably we wont send that many
 
 ** inventory
 + how often? - weekly to start?
 + follow up on small sequenom shippers - email probably
 + z tubes - order
 
-
 ** PDF reqs
-+ Javascript to save as png
++ Javascript to save as png(?)
+  + hold off on this 
 
 ** excel sheet for inventory
 + get threshold & outdate rules up
@@ -37,3 +35,4 @@
 ** archive old reqs
 + +S is done+
 
+** reporting info
