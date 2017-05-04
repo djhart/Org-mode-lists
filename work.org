@@ -12,7 +12,6 @@
 ** inventory
 + how often? - weekly to start?
 + follow up on small sequenom shippers - email probably
-+ z tubes - order
 
 ** PDF reqs
 + Javascript to save as png(?)
