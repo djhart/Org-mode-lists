@@ -1,10 +1,12 @@
 * Tasks - work
 
-** send andy email about busulfan Smith, B
-
 ** check out old charges
 + Josh's email
 + sheet is on the desk
+
+** jefferson requisition
++ switch to acrobat from livecycle 
++ get provider field to auto size
 
 ** fedex tracking from excel sheet
 + fedex tracking sub sent to self in email
@@ -12,7 +14,7 @@
 + may need to add robustness regarding more than 30 numbers but probably we wont send that many
 
 ** inventory
-+ how often? - weekly to start?
++ how often? -  bi-weekly to start?
 + follow up on small sequenom shippers - email probably
 
 ** PDF reqs
@@ -23,6 +25,7 @@
 + get threshold & outdate rules up
 + input order & receive
   + have order field (input quantity and set to on edit push to input page - pull item name and date)
+  + could use button as well
 + trending graphs 
   + probably default all fields to off because there are so many ( useful at all?)
   
