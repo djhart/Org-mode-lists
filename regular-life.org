@@ -2,6 +2,7 @@
 + check out guardians of Galaxy 2
 
 ** Sunday 5/7/17
++ old groceries
 + clear garden
 + mow dandelions if not whole yard
 + plan workbench
@@ -15,11 +16,6 @@
   + garage
 + plan lunch for week
 + check out hicaf tea - esp for camping and work
-
-** Saturday 5/6/17
-+ old groceeies
-+ water plants
-+ pay water bill
 + make the eye splice on rope
 + FIRE
 + set up linux on chromebook
@@ -28,9 +24,21 @@
 + hand/head/crow work
   + watch foot on head/crow
 
+** Saturday 5/6/17
++ >old groceeies
++ +water plants+
++ +pay water bill+
++ >make the eye splice on rope
++ >FIRE
++ >set up linux on chromebook
++ >set up spacemacs on something
++ >yoga
++ >hand/head/crow work
+  + watch foot on head/crow
+
 ** Friday 5/5/17
 + >old groceries in ledger
-+ +CINCO DE MAYO -- Margaritas! +
++ +CINCO DE MAYO -- Margaritas!+
 + +swim!+
 + >water plants
 + +make sure water bill is up to date+
