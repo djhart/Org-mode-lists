@@ -1,28 +1,46 @@
-** TUesday 5/9/17
-+ check out guardians of Galaxy 2
-
-** Sunday 5/7/17
-+ old groceries
-+ clear garden
-+ mow dandelions if not whole yard
+** Wednesday 5/10/17
 + plan workbench
   + materials list
   + vise set up
   + dimensions
   + basic sketches
++ eye splice
+  
+** TUesday 5/9/17
++ check out guardians of Galaxy 2
+
+** Monday 5/10/17
++ mow
++ yoga
+  + hand/head/crow
++ 2 pomo web dev
 + pull ups
++ set up linux/spacemacs on chromebook 
++ set up spacemacs on something
 + clean
   + office
   + garage
-+ plan lunch for week
++ old groceries
 + check out hicaf tea - esp for camping and work
-+ make the eye splice on rope
-+ FIRE
-+ set up linux on chromebook
-+ set up spacemacs on something
-+ yoga
-+ hand/head/crow work
-  + watch foot on head/crow
+
+** Sunday 5/7/17
++ >old groceries
++ >mow dandelions if not whole yard
++ >plan workbench
+  + materials list
+  + vise set up
+  + dimensions
+  + basic sketches
++ >pull ups
++ >clean
+  + office
+  + garage
++ >check out hicaf tea - esp for camping and work
++ >make the eye splice on rope
++ +FIRE+
++ >set up linux on chromebook
++ >set up spacemacs on something
++ >yoga
 
 ** Saturday 5/6/17
 + >old groceeies
