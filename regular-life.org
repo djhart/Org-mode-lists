@@ -1,29 +1,41 @@
-** Wednesday 5/10/17
+** Saturday 5/13/17
++ set up linux/spacemacs on chromebook 
++ clean
+  + office
+  + garage
 + plan workbench
   + materials list
   + vise set up
   + dimensions
   + basic sketches
+
+** Wednesday 5/10/17
 + eye splice
 + water plants
-  
-** TUesday 5/9/17
-+ check out guardians of Galaxy 2
-+ Mow
-
-** Monday 5/10/17
-+ >mow
 + yoga
   + hand/head/crow
 + 2 pomo web dev
 + pull ups
-+ set up linux/spacemacs on chromebook 
 + set up spacemacs on something
-+ clean
++ order hicaf tea - esp for camping and work
+  
+** TUesday 5/9/17
++ +check out guardians of Galaxy 2+
++ +Mow+
+
+** Monday 5/10/17
++ >mow
++ >yoga
+  + hand/head/crow
++ >2 pomo web dev
++ >pull ups
++ >set up linux/spacemacs on chromebook 
++ >set up spacemacs on something
++ >clean
   + office
   + garage
 + +old groceries+
-+ check out hicaf tea - esp for camping and work
++ >check out hicaf tea - esp for camping and work
 
 ** Sunday 5/7/17
 + >old groceries
