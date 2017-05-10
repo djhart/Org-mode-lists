@@ -14,8 +14,7 @@
 + may need to add robustness regarding more than 30 numbers but probably we wont send that many
 
 ** inventory
-+ how often? -  bi-weekly to start?
-+ follow up on small sequenom shippers - email probably
++ how often? -  bi-weekly to start?d
 
 ** PDF reqs
 + Javascript to save as png(?)
@@ -23,9 +22,6 @@
 
 ** excel sheet for inventory
 + get threshold & outdate rules up
-+ input order & receive
-  + have order field (input quantity and set to on edit push to input page - pull item name and date)
-  + could use button as well
 + trending graphs 
   + probably default all fields to off because there are so many ( useful at all?)
   
