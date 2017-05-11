@@ -1,5 +1,8 @@
 * Tasks - work
 
+** MORL req
++ make page 2 fields auto fill from page 1
+
 ** check out old charges
 + Josh's email
 + sheet is on the desk
