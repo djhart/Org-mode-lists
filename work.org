@@ -1,7 +1,6 @@
 * Tasks - work
 
-** MORL req
-+ make page 2 fields auto fill from page 1
+*** Reset viracor password
 
 ** check out old charges
 + Josh's email
@@ -17,8 +16,8 @@
 + may need to add robustness regarding more than 30 numbers but probably we wont send that many
 
 ** inventory
-+ how often? -  bi-weekly to start?d
-+ 5/15/17
++ how often? -  bi-weekly to start?
++ 5/16/17
 
 ** PDF reqs
 + Javascript to save as png(?)
