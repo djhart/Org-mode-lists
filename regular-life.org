@@ -1,19 +1,27 @@
-** Monday 5/15/17
-+ pull ups
-+ whip / fuse rope
-+ set up linux/spacemacs on chromebook 
-+ clean
-  + _office_
-  + garage
+** Tuesday 5/16/17
 + plan workbench
   + materials list
   + vise set up
   + dimensions
   + basic sketches
-+ yoga
++ check out inkscape
+  
+** Monday 5/15/17
++ pull ups / leg raise / levers (~15)
++ whip / fuse rope (~15)
++ set up linux/spacemacs on chromebook (~30)
+  + back up on flash drive (find flash drive)
+  + crouton
++ clean (30)
+  + office
+  + garage
+  + bedroom / laundry
++ work on bikes (~30)
++ yoga (20-40)
   + hand/head/crow
-+ 2 pomo web dev
-+ set up spacemacs on something
++ 2 pomo web dev (60)
++ set up spacemacs (~30)
+
 
 ** Sunday  5/14/17 
 + +Get Bryanne flowers/plants for mother's day+ (dinner)
