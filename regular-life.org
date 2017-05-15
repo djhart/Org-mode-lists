@@ -1,13 +1,19 @@
 ** Tuesday 5/16/17
-+ plan workbench
++ plan workbench (60)
   + materials list
   + vise set up
   + dimensions
   + basic sketches
-+ check out inkscape
++ check out inkscape (30)
++ 2 pomo web dev (60)
++ salt/sanc (?)
++ push ups / handstand / dips / bridge (~30)
+
   
 ** Monday 5/15/17
-+ pull ups / leg raise / levers (~15)
++ pants in laundry
++ haircut / shave
++ pull ups / leg raise / levers / squats(?) (~30)
 + whip / fuse rope (~15)
 + set up linux/spacemacs on chromebook (~30)
   + back up on flash drive (find flash drive)
