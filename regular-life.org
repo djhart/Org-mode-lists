@@ -1,9 +1,6 @@
-** Sunday  5/14/17 
-+ Get Bryanne flowers/plants for mother's day
-+ Get mom and ellen gifts or phone calls
-+ put o rings / clean keyboard
-
-** Saturday 5/13/17
+** Monday 5/15/17
++ pull ups
++ whip / fuse rope
 + set up linux/spacemacs on chromebook 
 + clean
   + _office_
@@ -13,16 +10,36 @@
   + vise set up
   + dimensions
   + basic sketches
-
-** Friday 5/12/17
-+ get highlights from yesterday
-+ eye splice
-+ water plants
-+ push ups
 + yoga
   + hand/head/crow
 + 2 pomo web dev
 + set up spacemacs on something
+
+** Sunday  5/14/17 
++ +Get Bryanne flowers/plants for mother's day+ (dinner)
++ +Get mom and ellen gifts or phone calls+
++ put o rings / clean keyboard
++ push ups
+
+** Saturday 5/13/17
++ >set up linux/spacemacs on chromebook 
++ >clean
+  + _office_
+  + garage
++ >plan workbench
+  + materials list
+  + vise set up
+  + dimensions
+  + basic sketches
+
+** Friday 5/12/17
++ +eye splice+
++ +water plants+
++ >push ups
++ >yoga
+  + hand/head/crow
++ >2 pomo web dev
++ >set up spacemacs on something
 + +order hicaf tea - esp for camping and work+
 + +check out o ring for keyboard+
 
