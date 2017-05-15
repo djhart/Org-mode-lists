@@ -18,6 +18,7 @@
 
 ** inventory
 + how often? -  bi-weekly to start?d
++ 5/15/17
 
 ** PDF reqs
 + Javascript to save as png(?)
