@@ -19,6 +19,7 @@
 + work on bikes (~30)
 + yoga (20-40)
   + hand/head/crow
++ put o rings / clean keyboard
 + 2 pomo web dev (60)
 + set up spacemacs (~30)
 
@@ -26,8 +27,8 @@
 ** Sunday  5/14/17 
 + +Get Bryanne flowers/plants for mother's day+ (dinner)
 + +Get mom and ellen gifts or phone calls+
-+ put o rings / clean keyboard
-+ push ups
++ >put o rings / clean keyboard
++ +push ups+
 
 ** Saturday 5/13/17
 + >set up linux/spacemacs on chromebook 
