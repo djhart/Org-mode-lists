@@ -4,11 +4,11 @@
   + crouton
  + 1 pomo french (30)
  + 2 pomo web dev (60)
- + post to site about rope 
-  + is it meaningful
-  + maybe change name to short & empty or long ramblings something in that vein (voided thoughts)
-  + do a little clean up begin posting occasionally
-  + talk about coding perhaps, framed in larger terms about the self
++ post to site about rope 
+ + is it meaningful
+ + maybe change name to short & empty or long ramblings something in that vein (voided thoughts)
+ + do a little clean up begin posting occasionally
+ + talk about coding perhaps, framed in larger terms about the self
   
 ** Wednesday 5/17/17
 + call for mattress pickup
