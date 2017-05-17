@@ -4,6 +4,11 @@
   + crouton
  + 1 pomo french (30)
  + 2 pomo web dev (60)
+ + post to site about rope 
+  + is it meaningful
+  + maybe change name to short & empty or long ramblings something in that vein (voided thoughts)
+  + do a little clean up begin posting occasionally
+  + talk about coding perhaps, framed in larger terms about the self
   
 ** Wednesday 5/17/17
 + call for mattress pickup
@@ -17,28 +22,32 @@
 + check out inkscape (30)
 + 1 pomo math (30)
 + 2 pomo web dev (60)
-
-** Tuesday 5/16/17
-+ do we have picture rails? investigate
-+ fix pen (20)
-+ 2 pomo web dev (60)
-+ pull ups / leg raise / levers / squats(?) (~30)
++ work on bikes (~30)
++ set up spacemacs (~30)
 + haircut / shave
-+ pants in laundry
 + clean (30)
   + office
   + garage
   + bedroom / laundry
-+ work on bikes (~30)
++ fix pen (20)
+
+** Tuesday 5/16/17
++ +do we have picture rails? investigate+
++ >fix pen (20)
++ +2 pomo web dev (60)+
++ +pull ups / leg raise / levers / squats(?) (~30)+
++ >haircut / shave
++ >clean (30)
+  + office
+  + garage
+  + bedroom / laundry
++ >work on bikes (~30)
 + yoga (20-40)
   + hand/head/crow
-+ 2 pomo web dev (60)
-+ set up spacemacs (~30)
-+ post to site about rope 
-  + is it meaningful
-  + maybe change name to short & empty or long ramblings something in that vein (voided thoughts)
-  + do a little clean up begin posting occasionally
-  + talk about coding perhaps, framed in larger terms about the self
++ +2 pomo web dev (60)+
++ >set up spacemacs (~30)
+
+
   
 ** XMonday 5/15/17
 + >pants in laundry
