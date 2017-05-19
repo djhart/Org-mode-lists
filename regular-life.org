@@ -1,16 +1,48 @@
-** Thursday 5/18/17
+** Saturday 5/20/17 
++ 1 pomo spanish (30)
++ check out inkscape (30)
++ 1 pomo math (30)
++ 2 pomo web dev (60)
++ work on bikes (~30)
++ haircut / shave
+
+** Friday 5/19/17
++ lots of fun
 + set up linux/spacemacs on chromebook (~30)
   + back up on flash drive (find flash drive)
   + crouton
- + 1 pomo french (30)
- + 2 pomo web dev (60)
 + post to site about rope 
  + is it meaningful
  + maybe change name to short & empty or long ramblings something in that vein (voided thoughts)
  + do a little clean up begin posting occasionally
  + talk about coding perhaps, framed in larger terms about the self
++ call for mattress pickup
++ plan workbench (60)
+  + materials list
+  + vise set up
+  + dimensions
+  + basic sketches
++ push ups / handstand / dips / bridge (~30)
++ set up spacemacs (~30)
++ clean (30)
+  + office
+  + garage
+  + bedroom / laundry
++ fix pen (20)
+
+** X Thursday 5/18/17
++ >set up linux/spacemacs on chromebook (~30)
+  + back up on flash drive (find flash drive)
+  + crouton
+ + 1 pomo french (30)
+ + 2 pomo web dev (60)
++ >post to site about rope 
+ + is it meaningful
+ + maybe change name to short & empty or long ramblings something in that vein (voided thoughts)
+ + do a little clean up begin posting occasionally
+ + talk about coding perhaps, framed in larger terms about the self
   
-** Wednesday 5/17/17
+** > Wednesday 5/17/17
 + call for mattress pickup
 + plan workbench (60)
   + materials list
@@ -31,7 +63,7 @@
   + bedroom / laundry
 + fix pen (20)
 
-** Tuesday 5/16/17
+** X Tuesday 5/16/17
 + +do we have picture rails? investigate+
 + >fix pen (20)
 + +2 pomo web dev (60)+
@@ -42,14 +74,14 @@
   + garage
   + bedroom / laundry
 + >work on bikes (~30)
-+ yoga (20-40)
++ >yoga (20-40)
   + hand/head/crow
 + +2 pomo web dev (60)+
 + >set up spacemacs (~30)
 
 
   
-** XMonday 5/15/17
+** X Monday 5/15/17
 + >pants in laundry
 + >haircut / shave
 + >pull ups / leg raise / levers / squats(?) (~30)
@@ -69,13 +101,13 @@
 + >set up spacemacs (~30)
 
 
-** XSunday  5/14/17 
+** X Sunday  5/14/17 
 + +Get Bryanne flowers/plants for mother's day+ (dinner)
 + +Get mom and ellen gifts or phone calls+
 + >put o rings / clean keyboard
 + +push ups+
 
-** XSaturday 5/13/17
+** X Saturday 5/13/17
 + >set up linux/spacemacs on chromebook 
 + >clean
   + _office_
@@ -86,7 +118,7 @@
   + dimensions
   + basic sketches
 
-** XFriday 5/12/17
+** X Friday 5/12/17
 + +eye splice+
 + +water plants+
 + >push ups
@@ -97,14 +129,14 @@
 + +order hicaf tea - esp for camping and work+
 + +check out o ring for keyboard+
 
-** XThursday 5/11//17
+** X Thursday 5/11//17
 + +pull ups+
   
-** XTUesday 5/9/17
+** X TUesday 5/9/17
 + +check out guardians of Galaxy 2+
 + +Mow+
 
-** XMonday 5/10/17
+** X Monday 5/10/17
 + >mow
 + >yoga
   + hand/head/crow
@@ -118,7 +150,7 @@
 + +old groceries+
 + >check out hicaf tea - esp for camping and work
 
-** XSunday 5/7/17
+** X Sunday 5/7/17
 + >old groceries
 + >mow dandelions if not whole yard
 + >plan workbench
@@ -137,7 +169,7 @@
 + >set up spacemacs on something
 + >yoga
 
-** XSaturday 5/6/17
+** X Saturday 5/6/17
 + >old groceeies
 + +water plants+
 + +pay water bill+
@@ -149,7 +181,7 @@
 + >hand/head/crow work
   + watch foot on head/crow
 
-** XFriday 5/5/17
+** X Friday 5/5/17
 + >old groceries in ledger
 + +CINCO DE MAYO -- Margaritas!+
 + +swim!+
