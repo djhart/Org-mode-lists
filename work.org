@@ -1,7 +1,5 @@
 * Tasks - work
 
-*** small sequenom shippers
-
 ** check out old charges
 + Josh's email
 + sheet is on the desk
@@ -17,7 +15,7 @@
 
 ** inventory
 + how often? -  bi-weekly to start?
-+ 5/16/17
++ 6/6/17
 
 ** PDF reqs
 + Javascript to save as png(?)
