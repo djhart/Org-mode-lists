@@ -1,16 +1,24 @@
+** Wednesday 5/24/17
++ bring brunch fruit for thurs
+
+** Tuesday 5/23/17
++ get brunch fruit
+
+** Monday 5/22/17
++ get x-ray
+
 ** Saturday 5/20/17 
-+ 1 pomo spanish (30)
 + check out inkscape (30)
-+ 1 pomo math (30)
 + 2 pomo web dev (60)
 + work on bikes (~30)
-+ haircut / shave
++ haircut / +shave+
 
 ** Friday 5/19/17
-+ lots of fun
-+ set up linux/spacemacs on chromebook (~30)
-  + back up on flash drive (find flash drive)
-  + crouton
++ +lots of fun+
++ set up +linux+ /spacemacs on chromebook (~30)
+  + +back up on flash drive (find flash drive)+
+    + find old flash drive
+  + +crouton+
 + post to site about rope 
  + is it meaningful
  + maybe change name to short & empty or long ramblings something in that vein (voided thoughts)
