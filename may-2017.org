@@ -1,9 +1,20 @@
 ** Thursday 5/25/17
 + work on bikes (~30)
++ call for mattress pickup 
++ clean garage a bit
++ plan workbench (60)
+  + materials list
+  + vise set up
+  + dimensions
+  + basic sketches
 
 ** Wednesday 5/24/17
 + bring brunch fruit for thurs
 + check out inkscape (30)
++ set up spacemacs (~30)
++ find small flash drive 
+  + de-brick new one
+  + order new small cheap one if old cannot be found
 
 ** Tuesday 5/23/17
 + get brunch fruit
@@ -30,19 +41,19 @@
 
 ** X Friday 5/19/17
 + +lots of fun+
-+ set up +linux+ /spacemacs on chromebook (~30)
++ >set up +linux+ /spacemacs on chromebook (~30)
   + +back up on flash drive (find flash drive)+
     + find old flash drive
   + +crouton+
-+ call for mattress pickup
-+ plan workbench (60)
++ >call for mattress pickup
++ >plan workbench (60)
   + materials list
   + vise set up
   + dimensions
   + basic sketches
 + >push ups / handstand / dips / bridge (~30)
-+ set up spacemacs (~30)
-+ clean (30)
++ >set up spacemacs (~30)
++ >clean (30)
   + +office+
   + garage
   + +bedroom+ / laundry
