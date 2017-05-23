@@ -1,5 +1,5 @@
 ** Thursday 5/25/17
-+ + work on bikes (~30
++ + work on bikes (~30)
 
 ** Wednesday 5/24/17
 + bring brunch fruit for thurs
@@ -11,6 +11,12 @@
 + trim
 + pay paypal
 + 2 pomo web dev (60)
++ get chromebook better set up, maybe ditch kde for other distro - see email
+  + look into SD card
++ make ortho and derm appointments
++ clean (30)
++ push ups / handstand / dips / bridge (~30)
++ fix pen
 
 ** X Monday 5/22/17
 + +get x-ray+
@@ -28,24 +34,19 @@
   + +back up on flash drive (find flash drive)+
     + find old flash drive
   + +crouton+
-+ post to site about rope 
- + is it meaningful
- + maybe change name to short & empty or long ramblings something in that vein (voided thoughts)
- + do a little clean up begin posting occasionally
- + talk about coding perhaps, framed in larger terms about the self
 + call for mattress pickup
 + plan workbench (60)
   + materials list
   + vise set up
   + dimensions
   + basic sketches
-+ push ups / handstand / dips / bridge (~30)
++ >push ups / handstand / dips / bridge (~30)
 + set up spacemacs (~30)
 + clean (30)
-  + office
+  + +office+
   + garage
-  + bedroom / laundry
-+ fix pen (20)
+  + +bedroom+ / laundry
++ >fix pen (20)
 
 ** X Thursday 5/18/17
 + >set up linux/spacemacs on chromebook (~30)
@@ -53,11 +54,6 @@
   + crouton
  + 1 pomo french (30)
  + 2 pomo web dev (60)
-+ >post to site about rope 
- + is it meaningful
- + maybe change name to short & empty or long ramblings something in that vein (voided thoughts)
- + do a little clean up begin posting occasionally
- + talk about coding perhaps, framed in larger terms about the self
   
 ** > Wednesday 5/17/17
 + call for mattress pickup
