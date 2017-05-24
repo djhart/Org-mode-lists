@@ -22,9 +22,14 @@
   + hold off on this 
 
 ** excel sheet for inventory
-+ get threshold & outdate rules up
-+ trending graphs 
-  + probably default all fields to off because there are so many ( useful at all?)
++ get +threshold+ & outdate rules up
++ funnel total on hand into order pages with threshold/outdate rules
+  + normalize product names across pages
+  + set up macro to fill on hand column with sum of all instances of product name
+    + fill with formula not with values so you only do the macro once. m
+    + see if you can do this without macro, might be able to get by with a formula
+  + update on hand numbers with received shipments
+
   
 ** Sort out Welsh invoices
 + several are paid ? 
