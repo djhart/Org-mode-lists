@@ -37,7 +37,7 @@
 + fix pen
 + do some math
     
-** XThursday 5/25/17
+** X Thursday 5/25/17
 + >work on bikes (~30)
 + call for mattress pickup 
 + call 356-7546 to make derm appt
@@ -48,13 +48,13 @@
   + dimensions
   + basic sketches
 
-**X Wednesday 5/24/17
+** X Wednesday 5/24/17
 + check out inkscape (30)
 + set up spacemacs (~30)
 + Xfind small flash drive 
   + Xde-brick new one
 
-** XTuesday 5/23/17
+** X Tuesday 5/23/17
 + get brunch fruit
 + +haircut+
 + +trim+
