@@ -1,0 +1,15 @@
++ totals
+  + vlookup
+    + For all order tables
+      + for all id 
+        + x = id
+        + sum = 0
+        + for each count table
+          + y = table area
+          + z = quant column
+          + sum += VLOOKUP(x,y,z,False)
+        + end
+        + on hand x = sum
+      + end
+    + end
+        
