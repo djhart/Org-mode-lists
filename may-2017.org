@@ -1,20 +1,20 @@
-** Wednesday 5/31/17
-+ change oil
-+ clean
-+ restart RAILS project
-+ do some math
-+ guitar.rb
-+ add to waste fellow
+** X Wednesday 5/31/17
++ >change oil
++ >clean
++ >restart RAILS project
++ >do some math
++ > guitar.rb
++ >add to waste fellow
   + make static html for it
   + need to post at least weekly
   + more important to just do it than high quality
   + grounds for experimentation - this isnt portfolio just fun
   + get it up on heroku and work on cms (at least mockup/plan stage)
-+ get out of bed by 630
++ >get out of bed by 630
 
-** Tuesday 5/30/17
-+ call dad
-+ Bikes
+** X Tuesday 5/30/17
++ +call dad+
++ >Bikes
   + 7.3
     + clean
     + brakes
@@ -23,22 +23,22 @@
   + XCAL
     + vinegar
     + clean
-+ get stuff for oil change
++ >get stuff for oil change
   + 2 jackstand
   + funnel
   + oil
   + oil filter
   + catch pan
-+ get grill and foil pan
-+ Repair screen
-+ text wim on gutter
-+ HTML project
-+ clean
-+ pull ups / levers
-+ fix pen
-+ do some math
-+ take out contacts
-+ goood sleep hygiene
++ >get grill and foil pan
++ >Repair screen
++ >text wim on gutter
++ >HTML project
++ >clean
++ >pull ups / levers
++ >fix pen
++ >do some math
++ >take out contacts
++ >goood sleep hygiene
     
 ** X Thursday 5/25/17
 + >work on bikes (~30)
