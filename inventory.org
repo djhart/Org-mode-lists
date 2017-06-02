@@ -13,3 +13,6 @@
       + end
     + end
         
+
+
++ all messed up - use copy-copy to debug - immediate window in vba
