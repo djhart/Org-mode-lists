@@ -1,12 +1,12 @@
 * Tasks - work
 
+* order z tubes
+
+* inventory 
+
 ** check out old charges
 + Josh's email
 + sheet is on the desk
-
-** jefferson requisition
-+ switch to acrobat from livecycle 
-+ get provider field to auto size
 
 ** fedex tracking from excel sheet
 + fedex tracking sub sent to self in email
