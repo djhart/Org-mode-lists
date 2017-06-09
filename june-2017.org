@@ -1,3 +1,24 @@
+** Saturday 6/10/17
++ 7.3
+   + clean
+   + brakes
+   + index
+   + lubricate
+ + XCAL
+   + vinegar
+   + clean
+   + index
+ + Fix screen
+ + clear lillies
+   
+** Friday 6/9/17
++ Clean
++ fold laundry
++ mow
++ shave
++ yoga / pushups
++ fire?
+
 ** Thursday 6/8/17
 + add to waste fellow
   + make static html for it
@@ -5,23 +26,13 @@
   + more important to just do it than high quality
   + grounds for experimentation - this isnt portfolio just fun
   + get it up on heroku and work on cms (at least mockup/plan stage)
-   
-** Wednesday 6/7/17
-  + 7.3
-    + clean
-    + brakes
-    + index
-    + lubricate
-  + XCAL
-    + vinegar
-    + clean
-    + index
+
     
-** Tuesday 6/6/17
-+ 0800 IRL ortho - Stuart, Unni, PA
-+ disc golf 
-+ bbq
-+ beers and kick it
+** X Tuesday 6/6/17
++ +0800 IRL ortho - Stuart, Unni, PA+
++ +disc golf+ 
++ +bbq+
++ +beers and kick it+
 + derma appt - call
 
 ** Monday 6/5/17
