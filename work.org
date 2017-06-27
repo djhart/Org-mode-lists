@@ -1,8 +1,12 @@
 * Tasks - work
 
-* order z tubes
+** order z tubes
+** order fedex bags
 
-* inventory 
+** Neuro tubes - phospho tau
++ tube 220
++ Attn: Cindy
++ talk to david if not received by 7/5/17
 
 ** check out old charges
 + Josh's email
@@ -13,16 +17,16 @@
 + need to add to vba in C:\Users\djhart\AppData\Roaming\Microsoft\Excel\XLSTART in Personal.xlsb macro enabled
 + may need to add robustness regarding more than 30 numbers but probably we wont send that many
 
-** inventory
-+ how often? -  bi-weekly to start?
-+ 6/6/17
-
 ** PDF reqs
 + Javascript to save as png(?)
   + hold off on this 
+  + talk to Pam in July about going forward
+  ++ is proband Rel a bust truly
+  ++ going outside of epic viable?
 
 ** excel sheet for inventory
 + get +threshold+ & outdate rules up
++ look into weird tables - cant remember name, might make things easier
 + funnel total on hand into order pages with threshold/outdate rules
   + normalize product names across pages
   + set up macro to fill on hand column with sum of all instances of product name
