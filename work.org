@@ -1,7 +1,6 @@
 * Tasks - work
 
 ** order z tubes
-** order fedex bags
 
 ** Neuro tubes - phospho tau
 + tube 220
