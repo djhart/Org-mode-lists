@@ -26,7 +26,7 @@
 
 ** excel sheet for inventory
 + get +threshold+ & outdate rules up
-+ look into weird tables - cant remember name, might make things easier
++ look into pivot tables - might make things easier
 + funnel total on hand into order pages with threshold/outdate rules
   + normalize product names across pages
   + set up macro to fill on hand column with sum of all instances of product name
