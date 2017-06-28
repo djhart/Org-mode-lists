@@ -1,6 +1,6 @@
 * Tasks - work
 
-** order z tubes
+* order z tubes
 
 ** Neuro tubes - phospho tau
 + tube 220
@@ -25,13 +25,16 @@
 
 ** excel sheet for inventory
 + get +threshold+ & outdate rules up
-+ look into pivot tables - might make things easier
 + funnel total on hand into order pages with threshold/outdate rules
-  + normalize product names across pages
-  + set up macro to fill on hand column with sum of all instances of product name
-    + fill with formula not with values so you only do the macro once. m
-    + see if you can do this without macro, might be able to get by with a formula
-  + update on hand numbers with received shipments
+  + ID is set up for most
+  + consolidate into count and order 
+    + count already done - see sheet for order
+    + should make things easier
+    + debug the on hand macro after consolidation
+      + make it robust and simple 
+      + maybe from scratch - right now its crap and doesnt work
+  + normalize product names across pages (necessary? add generic ID to those without instead?
+  + update on hand numbers with received shipments (low priority but should be cool and easy)
 
   
 ** Sort out Welsh invoices
