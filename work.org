@@ -1,6 +1,6 @@
 * Tasks - work
 
-* order z tubes
+* +order z tubes+
 
 ** update credit card
 
@@ -26,17 +26,11 @@
   ++ going outside of epic viable?
 
 ** excel sheet for inventory
-+ get +threshold+ & outdate rules up
-+ funnel total on hand into order pages with threshold/outdate rules
-  + ID is set up for most
-  + consolidate into count and order 
-    + count already done - see sheet for order
-    + should make things easier
-    + debug the on hand macro after consolidation
-      + make it robust and simple 
-      + maybe from scratch - right now its crap and doesnt work
-  + normalize product names across pages (necessary? add generic ID to those without instead?
-  + update on hand numbers with received shipments (low priority but should be cool and easy)
++ get threshold & outdate rules up on total sheet
++  threshold/outdate rules
++ update on hand numbers with received shipments (low priority but should be cool and easy)
++ finalize formatting 
++ put instructions for macro or make robust
 
   
 ** Sort out Welsh invoices
