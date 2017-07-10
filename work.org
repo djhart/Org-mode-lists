@@ -21,10 +21,10 @@
 
 ** PDF reqs
 + Javascript to save as png(?)
-  + hold off on this 
-  + talk to Pam in July about going forward
-    + is proband Rel a bust truly
-    + going outside of epic viable?
++ hold off on this 
++ talk to Pam in July about going forward
+  + is proband Rel a bust truly
+  + going outside of epic viable?
 
 ** excel sheet for inventory
 + get threshold & outdate rules up on total sheet
