@@ -1,13 +1,22 @@
-** TODO
+** personal
 + shave
-+ cut nails
-+ clean garage
-+ call about mattress
-+ mow lawn
 + tune up car
 + tune up bikes
 + go to sugarbottom
++ REad REad REad
+
+** Insurance 
++ reset account 
++ find discounts/shop around
+
+** House
++ clean garage
++ call about mattress
+
+** project
 + finish HTML
 + viking/le css
-+ REad REad REad
-+ 
++ workbench
++ dresser
++ plant tables
++ desk
