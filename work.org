@@ -1,6 +1,6 @@
 * Tasks - work
 
-* +order z tubes+
+** Send Royal blue to Hazim - 100 each
 
 ** update credit card
 
@@ -8,6 +8,7 @@
 + tube 220
 + Attn: Cindy
 + talk to david if not received by 7/5/17
++ Emailed David 7/10/17 - out of office til 7/13/17
 
 ** check out old charges
 + Josh's email
