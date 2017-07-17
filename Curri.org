@@ -26,6 +26,7 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
   
 * Physics - Undergrad
   + check out phys forum link if any of these are too pricey
+  + project euler as well
   
 ** Calc
   + do at least all the reds
