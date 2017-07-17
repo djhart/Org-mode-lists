@@ -26,6 +26,7 @@
 
 ** personal
 + shave
+  + +2d/4d
 + tune up car
 + tune up bikes
 + go to sugarbottom
