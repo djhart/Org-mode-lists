@@ -52,3 +52,19 @@
 + dresser
 + plant tables
 + desk
+
+*** Weekday Schedule
++ 0630 :: wakeup
+  + coffee
+  + prep for work
+  + stretch / workout
+  + shower / shave 
++ 0810 :: leave
++ 1745 :: clean - 30 min
++ 1815 :: eat, chill 
++ 1900 :: 2 pomo language or science
++ 2000 :: 2 pomo comp
++ 2100 :: long break / stretch / walk
++ 2130 :: 2 pomo comp
++ 2230 :: chill, read, music
+ 
