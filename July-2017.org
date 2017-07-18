@@ -1,8 +1,5 @@
 ** 7/17/17 - 7/23/17
 + clean 30 min at least - first thing after work
-  + clothes 
-    + fold
-    + decide on pants
   + office
     + trash
     + bookshelf
@@ -12,6 +9,8 @@
   + kitchen if need
   + garage
 + bikes
++ finish ch 2 calc - do summary with latex in curriculum file - export to pdf when done with book
++ figure out how git conflicts work
 + primus tickets
 + dresser
   + measurements
@@ -22,8 +21,6 @@
   + paypal
   + credit card
   + keep eye for younkers thing
-+ call mom
-+ get shirtstays
 + more notebooks
   + relegate each to a single subject
   + try some out do not go crazy with price
