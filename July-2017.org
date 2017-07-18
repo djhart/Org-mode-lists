@@ -8,6 +8,7 @@
       + make usable
   + kitchen if need
   + garage
++ clip nails
 + bikes
 + finish ch 2 calc - do summary with latex in curriculum file - export to pdf when done with book
 + figure out how git conflicts work
