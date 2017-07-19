@@ -59,7 +59,7 @@
 + plant tables
 + desk
 
-*** Weekday Schedule
+** Weekday Schedule
 + 0630 :: wakeup
   + coffee
   + prep for work
