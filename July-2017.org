@@ -1,18 +1,16 @@
 ** 7/17/17 - 7/23/17
 + clean 30 min at least - first thing after work
   + office
-    + trash
     + bookshelf
     + guitar stuff
       + new spring in 7string
       + make usable
   + kitchen if need
   + garage
-+ clip nails
 + bikes
 + finish ch 2 calc - do summary with latex in curriculum file - export to pdf when done with book
-+ figure out how git conflicts work
 + primus tickets
++ get new credit card
 + dresser
   + measurements
   + look for plans online
