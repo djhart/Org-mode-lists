@@ -1,7 +1,18 @@
 ** 7/17/17 - 7/23/17
 
 + add bill pay to org mode - set up a schedule file like this one for calendar stuff
+  + internet is auto
+  + ECSI is auto
+  + Ins auto
+  + phone auto
+  + MidAmerican
+  + Water
+  + Rent
+  + Paypal
+  + Younders card
+  + credit card
   + see http://orgmode.org/manual/Repeated-tasks.html
++ set up ledger in org mode - serious financial tracking - i have no money 
 + clean 30 min at least - first thing after work
   + office
     + bookshelf
