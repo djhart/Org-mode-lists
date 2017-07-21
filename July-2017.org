@@ -1,10 +1,11 @@
 ** 7/17/17 - 7/23/17
 
 + add bill pay to org mode - set up a schedule file like this one for calendar stuff
-  + internet is auto
-  + ECSI is auto
-  + Ins auto
-  + phone auto
+  + auto pay
+    + internet
+    + ECSI
+    + Ins 
+    + phone 
   + MidAmerican
   + Water
   + Rent
