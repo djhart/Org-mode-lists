@@ -1,4 +1,7 @@
 ** 7/17/17 - 7/23/17
+
++ add bill pay to org mode - set up a schedule file like this one for calendar stuff
+  + see http://orgmode.org/manual/Repeated-tasks.html
 + clean 30 min at least - first thing after work
   + office
     + bookshelf
