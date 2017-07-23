@@ -1,30 +1,7 @@
 ** 7/17/17 - 7/23/17
 
-+ add bill pay to org mode - set up a schedule file like this one for calendar stuff
-  + auto pay
-    + internet
-    + ECSI
-    + Ins 
-    + phone 
-  + MidAmerican
-  + Water
-  + Rent
-  + Paypal
-  + Younders card
-  + credit card
-  + see http://orgmode.org/manual/Repeated-tasks.html
++ see http://orgmode.org/manual/Repeated-tasks.html
 + set up ledger in org mode - serious financial tracking - i have no money 
-+ clean 30 min at least - first thing after work
-  + office
-    + bookshelf
-    + guitar stuff
-      + new spring in 7string
-      + make usable
-  + kitchen if need
-  + garage
-+ bikes
-+ finish ch 2 calc 
-+ get new credit card
 + dresser
   + measurements
   + look for plans online
@@ -37,13 +14,9 @@
   + you dont work hard enough to NEED rest days, in general
   + restday once every few weeks
   + push up, pull up, dips, levers, handstands until foot heals
-+ shave
-  + +2d/4d
 + tune up car
-+ tune up bikes
 + go to sugarbottom
 + REad REad REad
-+ Burlesque 9/16/17 - Paramount theatre CR
 
 ** Insurance 
 + reset account 
@@ -76,3 +49,4 @@
 + 2130 :: 2 pomo comp 
 + 2230 :: chill, read, music, journal/log?
  
+          
