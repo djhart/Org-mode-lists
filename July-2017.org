@@ -1,5 +1,6 @@
 ** 7/27/17-8/1/17
 
++ Pay hospital bills - ~$25 
 + see http://orgmode.org/manual/Repeated-tasks.html
 + set up ledger in - serious financial tracking - i have no money 
   + do this AUG 1
