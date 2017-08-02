@@ -2,16 +2,10 @@
 
 + Pay hospital bills - ~$25 
 + see http://orgmode.org/manual/Repeated-tasks.html
-+ set up ledger in - serious financial tracking - i have no money 
-  + do this AUG 1
-  + see ledger manual - very simple http://ledger-cli.org/3.0/doc/ledger3.html#Concrete-Example-of-Automated-Transactions
 + dresser
   + measurements
   + look for plans online
   + sketch something up
-
-
-
 ** personal
 + work out everyday
   + you dont work hard enough to NEED rest days, in general
@@ -23,8 +17,6 @@
 + if credit card == 0
   + look at linen sheets
   + buy new acoustic guitar
-  + look at new headphones
-
 
 ** Insurance 
 + reset account 
@@ -33,14 +25,6 @@
 ** House
 + clean garage
 + call about mattress
-
-** project
-+ finish HTML
-+ viking/le css
-+ workbench
-+ dresser
-+ plant tables
-+ desk
 
 ** Weekday Schedule
 + 0630 :: wakeup
